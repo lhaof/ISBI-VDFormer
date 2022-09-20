@@ -1,4 +1,4 @@
-# VIEW-DISENTANGLED TRANSFORMER FOR BRAIN LESION DETECTION
+# VIEW-DISENTANGLED TRANSFORMER FOR BRAIN LESION DETECTION-ISBI 2022
 
 This repo contains the supported code and configuration files of [View-Disentangled Transformer](https://empty.com). It is based on [Swin-Transformer-Object-Detection](https://github.com/SwinTransformer/Swin-Transformer-Object-Detection).
 
